@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Gutenberg Reusable Blocks Widget
+ * Plugin Name: Reusable Gutenberg Blocks Widget
  * Plugin URI: https://widget-options.com/
  * Description: Display Gutenberg saved reusable blocks anywhere via widget.
  * Version: 1.0
@@ -65,7 +65,7 @@ final class WP_Gutenberg_Reusable_Blocks_Widgets {
 
 		// Plugin version.
 		if ( ! defined( 'GUTENRBW_PLUGIN_NAME' ) ) {
-			define( 'GUTENRBW_PLUGIN_NAME', 'Gutenberg Reusable Blocks Widget' );
+			define( 'GUTENRBW_PLUGIN_NAME', 'Reusable Gutenberg Blocks Widget' );
 		}
 
 		// Plugin version.

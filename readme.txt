@@ -1,4 +1,4 @@
-=== Gutenberg Editor Reusable Blocks Widget ===
+=== Reusable Gutenberg Blocks Widget ===
 Contributors: phpbits
 Donate link: https://www.buymeacoffee.com/phpbits
 Tags:  gutenberg, widgets, widget, block, blocks, editor
