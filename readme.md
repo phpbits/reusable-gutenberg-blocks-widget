@@ -1,10 +1,10 @@
-# [WordPress Gutenberg Editor Reusable Blocks Widgets](https://widget-options.com/block-options/) #
+# WordPress Gutenberg Editor Reusable Blocks Widgets #
 
 ### Welcome to our GitHub Repository
 
 <strong>WordPress Gutenberg Editor Reusable Blocks Widgets</strong> will give you additional control of your saved reusable blocks and display them anywhere via widget.
 
-##Extensible##
+## Extensible ##
 If you want to upgrade your widgets usage. You can use <a href="https://widget-options.com/modal-pop-up-and-sliding-widget-options/?utm_source=gutenberg-reusable-widget-github">Modal Pop-up & Sliding Widget Options</a> to display your widgets as modal pop-ups, slide-ins and/or sliding widgets. Powered with triggers like exit-intent, on load and on scroll you can increase your user engagement easily. 
 
 ## Installation ##
