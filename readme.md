@@ -22,7 +22,7 @@ If you find an issue, please report on the issues tab. Thanks!
 ## Contributions ##
 There are various ways you can contribute:
 
-1. Raise an [Issue](https://github.com/phpbits/wordpress-gutenberg-editor-reusable-blocks-widget/issues) on GitHub
+1. Raise an [Issue](https://github.com/phpbits/reusable-gutenberg-blocks-widget/issues) on GitHub
 2. Send us a Pull Request with your bug fixes and/or new features
 3. Translate Widget Options into different languages
-4. Provide feedback and suggestions on [enhancements](https://github.com/phpbits/wordpress-gutenberg-editor-reusable-blocks-widget/issues)
+4. Provide feedback and suggestions on [enhancements](https://github.com/phpbits/reusable-gutenberg-blocks-widget/issues)
