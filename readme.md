@@ -1,8 +1,8 @@
-# WordPress Gutenberg Editor Reusable Blocks Widgets #
+# WordPress Gutenberg Editor Reusable Blocks Widget #
 
 ### Welcome to our GitHub Repository
 
-<strong>WordPress Gutenberg Editor Reusable Blocks Widgets</strong> will give you additional control of your saved reusable blocks and display them anywhere via widget.
+<strong>WordPress Gutenberg Editor Reusable Blocks Widget</strong> will give you additional control of your saved reusable blocks and display them anywhere via widget.
 
 ![WordPress Gutenberg Editor Reusable Blocks Widgets](https://widget-options.com/wp-content/uploads/2018/02/screenshot-1.gif "WordPress Gutenberg Editor Reusable Blocks Widgets")
 
